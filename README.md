@@ -23,11 +23,5 @@ I have created library management system 📚. This system contains the informat
 -   Trigger to automatically increment and decrement the no. of books
 -   Trigger to move the data from the transaction to transaction history table upon deletion
 
-## Note
-Sorry, I'm not able to upload source code on GitHub :octocat: because I've performed the project in Oracle Live SQL. But, you'll find all the code in [Document](https://github.com/iamdhrutipatel/Library-Management-System/blob/main/Library%20Management%20System.pdf).
-Thank You!
-
-
-## Facing any issues???
-Feel free to [open an issue](https://github.com/iamdhrutipatel/Library-Management-System/issues/new?assignees=&labels=Query&title=Query). I'll be glad to help you.❤️
+ I'll be glad to help you.❤️
 
